@@ -1,0 +1,223 @@
+단말기명,모델명,출고가,출시일자,통신사
+aka,"lg-f520k,lg-f520l,lg-f520s",528000,2014-11-11,"KT,LG,SKT"
+aka,lg-f520s,399300,2014-12-10,SKT
+band play,lg-f570s,349800,2015-06-25,SKT
+band play,lg-f570s,297000,2015-11-05,SKT
+be y phone,"hw-vns-l62,hw-vns-l62b",316800,2016-08-24,KT
+blackberry priv,"stv100-3_omd,omd rim priv",598000,2016-09-20,KT.SKT
+f70,"lg-f370k,lg-f370s,lg-f370l",279400,2014-05-21,"KT,LG,SKT"
+g flex,"lg-f340k,lg-f340l,lg-f340s",999900,2013-11-12,"KT,LG,SKT"
+g flex2,"lg-f510k,lg-f510l,lg-f510s",899800,2015-01-30,"KT,LG,SKT"
+g stylo,lg-f560k,517000,2015-04-24,KT
+g3,"lg-f400k,lg-f400l,lg-f400s",599500,2014-05-28,"KT,LG,SKT"
+g3 beat,"lg-f470k,lg-f470l,lg-f470s",499400,2014-07-17,"KT,LG,SKT"
+g3 beat,"lg-f470k,lg-f470l,lg-f470s",399300,2014-11-19,"KT,LG,SKT"
+g3 cat.6,"lg-f460k,lg-f460l,lg-f460s",649000,2014-07-25,"KT,LG,SKT"
+g3 cat.6,"lg-f460k,lg-f460l,lg-f460s",599500,2015-09-01,"KT,LG,SKT"
+g3a,lg-f410s,740000,2014-08-08,SKT
+g3a,lg-f410s,451000,2015-01-18,SKT
+g4,"lg-f500k, lg-f500kc,lg-f500l,lg-f500s",825000,2015-04-29,"KT,LG,SKT"
+g4,"lg-f500k, lg-f500kc,lg-f500l,lg-f500s",699600,2015-08-22,"KT,LG,SKT"
+g4,"lg-f500k, lg-f500kc,lg-f500l,lg-f500s",599500,2016-01-08,"KT,LG,SKT"
+galaxy a3 2016,"sm-a310n0, sm-a310n0, sm-a310s, sm-a310k, sm-a710l",352000,2016-03-07,"KT,LG,SKT"
+galaxy j3 2016,sm-j320n0,231000,2016-05-04,"KT,LG,SKT"
+galaxy j5 2017,"sm-j530k,sm-j530l,sm-j530s",344300,2017-07-04,"KT,LG,SKT"
+galaxy j7 2017,sm-j730k,396000,2017-07-21,KT
+galaxy note fe,"sm-n935k,sm-n935l,sm-n935s",699600,2017-07-07,"KT,LG,SKT"
+galaxy on7 2016,"sm-g610k,sm-g610l,sm-g610s",399300,2016-11-30,"KT,LG,SKT"
+galaxy s3 16g,"shv-e210l16, ",961400,2012-09-27,LG
+galaxy s3,"shv-e210k, shv-e210l, shv-e210s ",994400,2012-09-27,"KT,LG,SKT"
+galaxy s3,shw-m440s,904000,2012-05-29,SKT
+galaxy tab a 10.1,sm-t585n0k,363000,2017-02-27,KT
+galaxy tab s3 lte,sm-t825n,859000,2017-05-14,KT
+g pro2,"lg-f350k, lg-f350l, lg-f350s",999000,2014-02-21,"KT,LG,SKT"
+g pro2,"lg-f350k, lg-f350l, lg-f350s",799700,2014-06-01,"KT,LG,SKT"
+g pro2,lg-f350s,572000,2015-05-01,SKT
+im-100,"im-100k, im-100s",449900,2016-06-30,"KT, SKT"
+im-100,im-100k,379500,2016-10-28,"KT, SKT"
+im-100,im-100k,253000,2016-12-24,"KT, SKT"
+iphone 5 16gb,"aip5-16w,aip5-16",484000,2012-12-07,"KT, SKT"
+iphone 5s 16gb,"aip5s-16sg,aip5s-16gd,aip5s-16sv,iphone5s_16g",814000,2013-10-25,"KT, SKT"
+iphone 5s 32gb,iphone5s_32g,946000,2013-10-25,"KT, SKT"
+iphone 5s 64gb,iphone5s_64g,1078000,2013-10-25,"KT, SKT"
+iphone 5s demo,iphone5_demo,184800,2013-10-25,"KT, SKT"
+iphone 6s 128gb,"aip6s-128gd,aip6s-128sg,aip6s-128rg,aip6s-128sv,aip6s-16rg,aip6s-16sv,aip6s-16gd,aip6s-16sg,aip6s-64sv,aip6s-64gd,aip6s-64sg,aip6s-64rg,iphone6s_128g,iphone6s_16g,iphone6s_32gw,iphone6s_64g,re_iphone6s_128g,re_iphone6s_16g,re_iphone6s_64g",1200000,2015-10-23,"KT,LG,SKT"
+iphone 6s plus 16gb,"aip6sp-16gd,aip6sp-16sv,aip6sp-16rg,aip6sp-16sg",1060000,2015-10-23,"KT,LG,SKT"
+iphone 6s plus 64gb,"aip6sp-64sg,aip6sp-64sv,aip6sp-64gd",1200000,2015-10-23,"KT,LG,SKT"
+iphone 6s plus 128gb,"aip6sp-128rg,aip6sp-128sg,aip6sp-128sv,aip6sp-128gd",1340000,2015-10-23,"KT,LG,SKT"
+iphone 7 32gb,"aip7-32sv,aip7-32bk,aip7-32gd",869000,2016-10-21,"KT,LG,SKT"
+iphone 7 128gb,"aip7-128sv, aip7-128rd, aip7-128jb, aip7-128bk, aip7-128gd, aip7-128rg",999000,2016-10-21,"KT,LG,SKT"
+iphone 7 256gb,"aip7-256rd,aip7-256sv,aip7-256rg,aip7-256jb,aip7-256gd,aip7-256bk",1130800,2016-10-21,"KT,LG,SKT"
+iphone 7 plus 32gb,"aip7p-32sv,aip7p-32gd,aip7p-32bk",1021900,2016-10-21,"KT,LG,SKT"
+iphone 7 plus 128gb,"aip7p-128gd,aip7p-128bk,aip7p-128rd,aip7p-128jb,aip7p-128rg,aip7p-128sv",1152800,2016-10-21,"KT,LG,SKT"
+iphone 7 plus 256gb,"aip7p-256jb, aip7p-256sv,aip7p-256gd,aip7p-256bk,aip7p-256rg,aip7p-256rd",1283700,2016-10-21,"KT,LG,SKT"
+iphone se 16gb,"aipse-16sg,aipse-16rg,aipse-16sv,aipse-16gd",504900,2016-05-10,"KT,LG,SKT"
+iphone se 64gb,"aipse-64gd,aipse-64sv,aipse-64rg,aipse-64sg,iphone se_16g,iphone se_64g,re_iphone se_64g",634700,2016-05-10,"KT,LG,SKT"
+헬로키티폰,km-k01s,185900,2017-02-24,SKT
+lg class,"lg-f620k,lg-f620l,lg-f620s",399300,2015-09-11,"KT,LG,SKT"
+lg g2,"lg-f320l,lg-f320s, lg-f320k",616000,2013-08-08,"KT,LG,SKT"
+lg g3 screen,"lg-f490l, lg-f490k, lg-f490s",803000,2014-10-24,"KT,LG,SKT"
+lg g3 screen,"lg-f490l, lg-f490k, lg-f490s",555000,2015-01-08,"KT,LG,SKT"
+lg g3 screen,"lg-f490l, lg-f490k, lg-f490s",451000,2015-08-03,"KT,LG,SKT"
+lg g3 screen,"lg-f490l, lg-f490k, lg-f490s",154000,2016-04-01,"KT,LG,SKT"
+lg g5,"lg-f700k,lg-f700l,lg-f700s",699600,2016-10-12,"KT,LG,SKT"
+lg g5,"lg-f700k,lg-f700l,lg-f700s",836000,2016-03-31,"KT,LG,SKT"
+lg g6 64gb,"lgm-g600k,lgm-g600l,lgm-g600s",899800,2017-03-02,"KT,LG,SKT"
+lg g6 32gb,"lgm-g600kr,lgm-g600sr,lgm-g600lr",819500,2017-06-30,"KT,LG,SKT"
+lg g6 블랙에디션,lgm-g600kfb,899800,2017-03-29,KT
+lg g6 plus 128gb,"lgm-g600kp,lgm-g600sp,lgm-g600lp",957000,2017-06-30,"KT,SKT"
+lg gx,"lg-f310lr,lg-f310l",352000,2014-12-06,LG
+lg gx,"lg-f310lr,lg-f310l",528000,2013-12-16,LG
+lg k10,"lg-f670k,lg-f670s,lg-f670l",275000,2016-01-15,"KT,LG,SKT"
+lg stylus2,"lg-f720k,lg-f720s,lg-f720sl",319000,2017-01-24,"KT,LG,SKT"
+lg stylus2,"lg-f720k,lg-f720s,lg-f720sl",396000,2016-03-10,"KT,LG,SKT"
+lg v10,"lg-f600k,lg-f600l,lg-f600s",599500,2016-08-16,"KT,LG,SKT"
+lg v10,"lg-f600k,lg-f600l,lg-f600s",799700,2015-10-08,"KT,LG,SKT"
+lg v20,"lg-f800k,lg-f800l,lg-f800s",899800,2016-09-29,"KT,LG,SKT"
+lg x screen,"lg-f650k,lg-f650l,lg-f650s",319000,2016-03-22,"KT,LG,SKT"
+lg x skin,lg-f740l,176000,2017-07-17,LG
+lg x skin,lg-f740l,231000,2016-06-23,LG
+lg x300,"lgm-k120l,lgm-k120k,lgm-k120s",253000,2017-01-17,"KT,LG,SKT"
+lg x400,"lgm-k121k,lgm-k121l,lgm-k121s",319000,2017-02-21,"KT,LG,SKT"
+lg x5,lg-f770s,275000,2016-07-05,SKT
+lg x500,"lgm-x320k,lgm-x320s",319000,2017-06-04,"KT,LG,SKT"
+lg iscream smart,lg-f440l,286000,2015-08-03,LG
+lg iscream smart,lg-f440l,319000,2015-01-26,LG
+lg 젠틀,lg-f580l,242000,2015-07-27,LG
+lg x-cam,lg-f690l,396000,2016-06-30,LG
+lg u,lg-f820l,396000,2016-10-31,LG
+luna,tg-l800s,378400,2016-04-01,SKT
+luna,tg-l800s,449900,2015-09-04,SKT
+nexus 5x 16gb,"lg-h791,lg-h791_16g",132000,2017-05-25,"KT,LG,SKT"
+nexus 5x 16gb,"lg-h791,lg-h791_16g",242000,2016-04-02,"KT,LG,SKT"
+nexus 5x 16gb,"lg-h791,lg-h791_16g",379500,2016-03-01,"KT,LG,SKT"
+nexus 5x 16gb,"lg-h791,lg-h791_16g",452350,2015-12-10,"KT,LG,SKT"
+nexus 5x 16gb,"lg-h791,lg-h791_16g",509000,2015-10-20,"KT,LG,SKT"
+nexus 5x 32gb,"lg-h791_32g,lg-h791_32g",398200,2016-04-02,"KT,LG,SKT"
+nexus 5x 32gb,"lg-h791_32g,lg-h791_32g",512350,2015-12-10,"KT,LG,SKT"
+nexus 5x 32gb,"lg-h791_32g,lg-h791_32g",569000,2015-09-30,"KT,LG,SKT"
+nexus 6p,h1512,599500,2015-12-04,SKT
+xperia xz,"omd sony xz,xpr-xz_omd",550000,2017-07-14,"KT,SKT"
+xperia xz,"omd sony xz,xpr-xz_omd",699600,2017-05-17,"KT,SKT"
+xperia xz,"omd sony xz,xpr-xz_omd",798600,2016-10-10,"KT,SKT"
+xperia xz premium,omd sony xzp,799700,2017-05-30,"KT,SKT"
+q6,"lgm-x600s, lgm-x600k, lgm-x600l,lgm-x600s_32gs,lgm-x600s_32gw",419100,2017-08-02,"KT,LG,SKT"
+joon ,sd-w530s,283800,2017-05-02,SKT
+galaxy s8,"sm-g950n_64g,sm-g950nbk, sm-g950ngr, sm-g950nbe, sm-g950nsr",935000,2017-04-21,"KT,LG,SKT"
+galaxy wide2,sm-j727s,297000,2017-05-19,SKT
+sol prime,t-1000,330000,2017-01-19,SKT
+sol prime,t-1000,433400,2017-01-06,SKT
+vu3,lg-f300s/lg-f300k/lg-f300l,643500,2013-09-27,"KT,LG,SKT"
+x power,lg-f750k,253000,2017-07-27,KT
+xperia x performance,"xpr-xp_omd,omd sony xp",499400,2017-06-23,"KT,SKT"
+xperia x performance,"xpr-xp_omd,omd sony xp",659000,2016-12-12,"KT,SKT"
+xperia x performance,"xpr-xp_omd,omd sony xp",759000,2016-06-27,"KT,SKT"
+xperia z2,omd sony z2,399000,2015-09-15,"KT,SKT"
+xperia z2,omd sony z2,499000,2014-12-10,"KT,SKT"
+xperia z2,omd sony z2,799000,2014-05-08,"KT,SKT"
+xperia z2,omd sony z2,399000,2015-12-30,SKT
+xperia z3,omd sony z3,799000,2014-09-21,SKT
+xpr-c3,xpr-c3,297000,2014-11-03,KT
+y6,hw-scl-l32,154000,2015-12-15,LG
+galaxy a5 2015,"sm-a500k,sm-a500s",484000,2015-01-22,"KT,SKT"
+galaxy a5 2015,"sm-a500k,sm-a500s",399300,2016-01-13,"KT,SKT"
+galaxy a5 2017,"sm-a520k,sm-a520s,sm-a520l",588500,2017-07-14,"KT,LG,SKT"
+galaxy a7 2015,"sm-a700k,sm-a700s",583000,2015-01-29,"KT,SKT"
+galaxy a7 2015,"sm-a700k,sm-a700s",499400,2016-03-03,"KT,SKT"
+galaxy alpha,"sm-g850k,sm-g850s",495000,2014-12-10,"KT,SKT"
+galaxy alpha,"sm-g850k,sm-g850s",748000,2014-09-03,"KT,SKT"
+galaxy j5 sence,"sm-j500n0,sm-j500n00",297000,2015-07-22,"LG,KT"
+galaxy j5 2016,"sm-j510k,sm-j510s",297000,2016-04-29,"KT,SKT"
+galaxy j7 2016,sm-j710k,363000,2016-04-29,KT
+galaxy grand max,sm-g720n0,310000,2015-01-01,"KT,SKT"
+galaxy round,sm-g910s,1089000,2013-10-10,SKT
+galaxy s4,shv-e300l,954800,2013-06-26,LG
+galaxy s4 lte-a,"shv-e330l,shv-e330s_16g",605000,2016-08-09,"LG,SKT"
+galaxy s5 광대역 lte-a,"sm-g906k,sm-g906kw,sm-g906l,sm-g906s",940500,2014-06-30,"KT,LG,SKT"
+galaxy s6 32gb,"sm-g920k,sm-g920kw,sm-g920l,sm-g920l64,sm-g920s_32g",779900,2015-10-07,
+galaxy s6 32gb,"sm-g920k,sm-g920kw,sm-g920l,sm-g920l64,sm-g920s_32g",679800,2016-04-06,
+galaxy s6 32gb,"sm-g920k,sm-g920kw,sm-g920l,sm-g920l64,sm-g920s_32g",854000,2015-03-22,"KT,LG,SKT"
+galaxy s6 64gb,"sm-g920s_64gg,g920kw_64g,g920k_64g",799700,2015-10-07,
+galaxy s6 64gb,"sm-g920s_64gg,g920kw_64g,g920k_64g",699600,2016-04-06,
+galaxy s6 64gb,"sm-g920s_64gg,g920kw_64g,g920k_64g",924000,2015-03-22,
+galaxy s6 edge 32gb,"g925k_128g,g925k_64g,g925kw_64g,sm-g925k,sm-g925kw,sm-g925l,sm-g925l128,sm-g925l64,sm-g925s_128g,sm-g925s_32g,sm-g925s_64g",979000,2015-03-22,KT
+galaxy s6 edge 64gb,"g925k_128g,g925k_64g,g925kw_64g,sm-g925k,sm-g925kw,sm-g925l,sm-g925l128,sm-g925l64,sm-g925s_128g,sm-g925s_32g,sm-g925s_64g",1056000,2015-03-22,
+galaxy s6 edge 128gb,"g925k_128g,g925k_64g,g925kw_64g,sm-g925k,sm-g925kw,sm-g925l,sm-g925l128,sm-g925l64,sm-g925s_128g,sm-g925s_32g,sm-g925s_64g",1188000,2015-05-12,
+galaxy s6 edge 64gb,"g925k_128g,g925k_64g,g925kw_64g,sm-g925k,sm-g925kw,sm-g925l,sm-g925l128,sm-g925l64,sm-g925s_128g,sm-g925s_32g,sm-g925s_64g",898700,2015-10-07,
+galaxy s6 edge 32gb,"g925k_128g,g925k_64g,g925kw_64g,sm-g925k,sm-g925kw,sm-g925l,sm-g925l128,sm-g925l64,sm-g925s_128g,sm-g925s_32g,sm-g925s_64g",735900,2016-06-04,
+galaxy s6 edge 64gb,"g925k_128g,g925k_64g,g925kw_64g,sm-g925k,sm-g925kw,sm-g925l,sm-g925l128,sm-g925l64,sm-g925s_128g,sm-g925s_32g,sm-g925s_64g",755700,2016-06-04,
+galaxy s6 edge 128gb,"g925k_128g,g925k_64g,g925kw_64g,sm-g925k,sm-g925kw,sm-g925l,sm-g925l128,sm-g925l64,sm-g925s_128g,sm-g925s_32g,sm-g925s_64g",799700,2016-06-04,
+galaxy s7 32gb,"sm-g930kpk,sm-g930ksr,sm-g930kbpk,sm-g930k,sm-g930kw,sm-g930l,sm-g930s_32g,g930kgd_64g,sm-g930ssoy,rf-sm-g930l",836000,2016-03-10,"KT,LG,SKT"
+galaxy s7 64gb,"sm-g930kpk,sm-g930ksr,sm-g930kbpk,sm-g930k,sm-g930kw,sm-g930l,sm-g930s_32g,g930kgd_64g,sm-g930ssoy,rf-sm-g930l",880000,2016-03-10,
+galaxy s7 edge 32gb,"sm-g935kpb_128g,sm-g935kpk,sm-g935ksr,sm-g935kw,sm-g935kgd,sm-g935k,sm-g935kbe,sm-g935s_128g,sm-g935s_32g,g935kbe_64g,g935kgd_64g,rf-sm-g935l",924000,2016-03-11,KT
+galaxy s7 edge 64gb,"sm-g935kpb_128g,sm-g935kpk,sm-g935ksr,sm-g935kw,sm-g935kgd,sm-g935k,sm-g935kbe,sm-g935s_128g,sm-g935s_32g,g935kbe_64g,g935kgd_64g,rf-sm-g935l",968000,2016-03-11,
+galaxy s7 edge 128gb,"sm-g935kpb_128g,sm-g935kpk,sm-g935ksr,sm-g935kw,sm-g935kgd,sm-g935k,sm-g935kbe,sm-g935s_128g,sm-g935s_32g,g935kbe_64g,g935kgd_64g,rf-sm-g935l",1012000,2016-12-08,
+galaxy win,"shv-e500s,shv-e500l",550000,2013-11-01,"SKT,LG"
+galaxy grand2,"sm-g710l,sm-g710s",517000,2014-03-13,"LG,SKT"
+galaxy note3,"sm-n900l,sm-n900sw",1067000,2013-09-10,"LG,SKT"
+galaxy note3 neo,"sm-n750l,sm-n750s",790000,2014-03-03,"LG,SKT"
+galaxy note4 s-lte,"sm-n916k,sm-n916kw,sm-n916s",957000,2015-01-23,"KT,SKT"
+galaxy note5 32gb,"n920k_128g,n920kgd_64g,n920kpk_64g,n920ksr_64g,sm-n920ksr,sm-n920k,sm-n920kw,sm-n920kgd,sm-n920l,sm-n920l64,sm-n920s_128gg,sm-n920s_32gs,sm-n920s_64gg",899800,2015-08-21,KT
+galaxy note5 64gb,"n920k_128g,n920kgd_64g,n920kpk_64g,n920ksr_64g,sm-n920ksr,sm-n920k,sm-n920kw,sm-n920kgd,sm-n920l,sm-n920l64,sm-n920s_128gg,sm-n920s_32gs,sm-n920s_64gg",965800,2015-08-21,
+galaxy note5 128gb,"n920k_128g,n920kgd_64g,n920kpk_64g,n920ksr_64g,sm-n920ksr,sm-n920k,sm-n920kw,sm-n920kgd,sm-n920l,sm-n920l64,sm-n920s_128gg,sm-n920s_32gs,sm-n920s_64gg",999000,2015-12-18,
+galaxy note5 32gb,"n920k_128g,n920kgd_64g,n920kpk_64g,n920ksr_64g,sm-n920ksr,sm-n920k,sm-n920kw,sm-n920kgd,sm-n920l,sm-n920l64,sm-n920s_128gg,sm-n920s_32gs,sm-n920s_64gg",799700,2016-12-27,
+galaxy note5 64gb,"n920k_128g,n920kgd_64g,n920kpk_64g,n920ksr_64g,sm-n920ksr,sm-n920k,sm-n920kw,sm-n920kgd,sm-n920l,sm-n920l64,sm-n920s_128gg,sm-n920s_32gs,sm-n920s_64gg",821700,2016-12-27,
+galaxy note5 128gb,"n920k_128g,n920kgd_64g,n920kpk_64g,n920ksr_64g,sm-n920ksr,sm-n920k,sm-n920kw,sm-n920kgd,sm-n920l,sm-n920l64,sm-n920s_128gg,sm-n920s_32gs,sm-n920s_64gg",865700,2016-12-27,
+galaxy note7,sm-n930s_64g,988900,2016-08-19,SKT
+galaxy mega,"shv-e310l,shv-e310s",799700,2013-03-01,"LG,SKT"
+galaxy wide,sm-g600s,319000,2016-07-04,SKT
+galaxy joom2,sm-c115l,297000,2014-04-29,LG
+galaxy core advance,shw-m570s,410300,2014-02-01,SKT
+galaxy folder,"sm-g150nk,sm-g150ns,sm-g160n",297000,2015-07-28,"KT,SKT,LG"
+galaxy folder2 ,sm-g160n,297000,2017-06-22,"KT,SKT"
+galaxy a5 2016,"sm-a510k,sm-a510l,sm-a510s",550000,2015-01-22,"KT,LG,SKT"
+galaxy a7 2016,"sm-a710k,sm-a710l,sm-a710s",599500,2016-01-13,"KT,LG,SKT"
+galaxy a7 2017,sm-a720s,588500,2017-07-14,SKT
+galaxy a8 2015,sm-a800s,649000,2015-07-24,
+galaxy a8 2015,sm-a800s,599500,2015-12-01,
+galaxy a8 2015,sm-a800s,399300,2015-04-08,
+galaxy a8 2016,sm-a810ss,649000,2016-10-05,
+galaxy j7 sense plus,sm-j700k,374000,2015-11-25,
+galaxy s3 3g,shw-m440s,904200,2012-05-29,
+galaxy s4 active,shv-e470s,899800,2013-07-09,
+galaxy s5 ,"sm-g900kw,sm-g900k,sm-g900s",868000,2014-04-11,
+galaxy s5 ,"sm-g900kw,sm-g900k,sm-g900s",668000,2015-03-08,
+galaxy s6 edge plus,"sm-g928k,sm-g928l,sm-g928s_32g",939400,2015-08-21,
+galaxy s6 edge plus,"sm-g928k,sm-g928l,sm-g928s_32g",599500,2016-09-30,
+galaxy s8 plus 128gb ,"sm-g955n_128g,sm-g955n_64gb,sm-g955n128,sm-g955nbl, sm-g955npk, sm-g955ngr",1155000,2017-04-21,
+galaxy s8 plus 64gb,"sm-g955n_128g,sm-g955n_64gb,sm-g955n128,sm-g955nbl, sm-g955npk, sm-g955ngr",990000,2017-04-21,
+galaxy note edge,"sm-n915k,sm-n915s",1067000, 2014-09-26,"KT,SKT"
+galaxy note4 ,"sm-n910k,sm-n910kw,sm-n910l,sm-n910s",957000,2014-09-26,"KT,LG.SKT"
+galaxy note4 ,"sm-n910k,sm-n910kw,sm-n910l,sm-n910s",799000,2015-08-01,"KT,LG.SKT"
+galaxy note4 ,"sm-n910k,sm-n910kw,sm-n910l,sm-n910s",699600,2015-10-08,"KT,LG.SKT"
+linefriends smartphone,zte-k813,231000,  2017-03-01,KT
+luna s,tg-l900s,568700,2017-10-12,SKT
+luna s,tg-l900s,499400,2016-12-07,SKT
+vega lte-a,im-a880s,878900,2013-08-19,SKT
+vega number6,im-a860l,849000,2013-02-07,LG
+vega secret up,im-a900l,954800,2013-12-10,LG
+vega secret note,im-a890l,990000,2013-10-16,LG
+vega iron2,im-a910l,783200,2014-05-12,LG
+volt,lg-f540s,297000,2015-04-17,SKT
+view3,"lg-f300k,lg-f300l",643500,2013-09-27,"KT,LG"
+iphone 4 16gb,iphone4_16g,814000,2010-06-24,SKT
+iphone 4 32gb,,946000,2010-06-24,
+iphone 4s 16gb,iphone4s_16g,814000,2011-10-24,SKT
+iphone 4s 32gb,iphone4s_32g,946000,2011-10-24,
+iphone 4s 64gb,iphone4s_64g,1078000,2011-10-24,
+iphone 6 16gb,"a1586-128,a1586-16,a1586-32,a1586-64,iphone6_128g,iphone6_16g,iphone6_32g,iphone6_64g,aip6-128sv,aip6-128gd,aip6-128sg,aip6-16sv,aip6-16gd,aip6-16sg,aip6-32sg,aip6-64sg,aip6-64gd,aip6-64sv,rf-a1586-128,rf-a1586-16,rf-a1586-64",789800,2014-09-19,"LG,SKT,KT"
+iphone 6 64gb,"a1586-128,a1586-16,a1586-32,a1586-64,iphone6_128g,iphone6_16g,iphone6_32g,iphone6_64g,aip6-128sv,aip6-128gd,aip6-128sg,aip6-16sv,aip6-16gd,aip6-16sg,aip6-32sg,aip6-64sg,aip6-64gd,aip6-64sv,rf-a1586-128,rf-a1586-16,rf-a1586-64",924000,2014-09-19,
+iphone 6 128gb,"a1586-128,a1586-16,a1586-32,a1586-64,iphone6_128g,iphone6_16g,iphone6_32g,iphone6_64g,aip6-128sv,aip6-128gd,aip6-128sg,aip6-16sv,aip6-16gd,aip6-16sg,aip6-32sg,aip6-64sg,aip6-64gd,aip6-64sv,rf-a1586-128,rf-a1586-16,rf-a1586-64",1056000,2014-09-19,
+iphone 6 plus 16gb,"a1524-128,a1524-16,a1524-64,iphone6+_128g,iphone6+_16g,iphone6+_64g,aip6p-128sv,aip6p-128gd,aip6p-128sg,aip6p-16gd,aip6p-16sv,aip6p-16sg,aip6p-64sg,aip6p-64gd,aip6p-64sv",924000,2015-09-25,"LG,SKT,KT"
+iphone 6 plus 64gb,"a1524-128,a1524-16,a1524-64,iphone6+_128g,iphone6+_16g,iphone6+_64g,aip6p-128sv,aip6p-128gd,aip6p-128sg,aip6p-16gd,aip6p-16sv,aip6p-16sg,aip6p-64sg,aip6p-64gd,aip6p-64sv",1056000,2015-09-25,
+iphone 6 plus 128gb,"a1524-128,a1524-16,a1524-64,iphone6+_128g,iphone6+_16g,iphone6+_64g,aip6p-128sv,aip6p-128gd,aip6p-128sg,aip6p-16gd,aip6p-16sv,aip6p-16sg,aip6p-64sg,aip6p-64gd,aip6p-64sv",1188000,2015-09-25,
+alcatel idol chac,am-h100,287000,2015-04-17,SKT
+optimus g,lg-f180l,968000,2012-09-28,LG
+optimus gpro ,"lg-f240l,lg-f240s",858000,2013-02-21,"LG,SKT"
+optimus view2,lg-f200l,966900,2012-09-28,LG
+wise2 2g,shc-z160s,451000,2013-01-12,SKT
+wine smart,"lg-f480k,lg-f480l,lg-f480s",297000,2014-09-29,"KT,LG,SKT"
+wine smart jazz,"lg-f610k,lg-f610kn,lg-f610s",242000,2015-09-22,"KT,SKT"
+huawei x3,hw-h60-j1,330000,2014-06-24,LG
+galaxy note 2,"shv-e250s,shv-e250k,shv-e250l",1089000,2012-09-26,"LG,SKT.KT"
+galaxy note 2,"shv-e250s,shv-e250k,shv-e250l",990000,2013-04-06,"LG,SKT.KT"
