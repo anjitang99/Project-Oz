@@ -22,7 +22,7 @@ vect = HashingVectorizer(decode_error='ignore',
                          n_features=2**21,
                          preprocessor=None,
                          tokenizer=tokenizer)
-
+ 
 
 for i in range(100):
     X = vect.transform([ab[i]])
